@@ -1,0 +1,3 @@
+﻿  OOPAssignment.cpp
+C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\OOPAssignment\OOPAssignment\OOPAssignment.cpp(11,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OOPAssignment.vcxproj -> C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\OOPAssignment\Debug\OOPAssignment.exe
