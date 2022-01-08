@@ -34,8 +34,10 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\Game1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\EndGame.cpp.obj"
 "C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\Game1.cpp.obj"
 "C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\StartMenu.cpp.obj"
+"C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\EndGame.gen.cpp.obj"
 "C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\Game1.init.gen.cpp.obj"
 "C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\StartMenu.gen.cpp.obj"
 "C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\Default.rc2.res"
