@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Game1",
+			"Path": "C:\\Users\\JAK58\\Documents\\GitHub\\CPlusPlus_UnrealEngine\\Game1\\Source\\Game1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Game1Editor",
+			"Path": "C:\\Users\\JAK58\\Documents\\GitHub\\CPlusPlus_UnrealEngine\\Game1\\Source\\Game1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

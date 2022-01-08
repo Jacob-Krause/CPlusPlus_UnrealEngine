@@ -1,0 +1,2 @@
+C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\Definitions.Game1.h
+C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Source\Game1\Game1.h

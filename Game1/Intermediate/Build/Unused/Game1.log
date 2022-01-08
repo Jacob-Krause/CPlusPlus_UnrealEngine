@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine).
+  Building Game1Editor...
+  Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] StartMenu.cpp
+    [2/4] UE4Editor-Game1.lib
+       Creating library C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\UE4Editor-Game1.lib and object C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\UE4Editor-Game1.exp
+    [3/4] UE4Editor-Game1.dll
+       Creating library C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\UE4Editor-Game1.suppressed.lib and object C:\Users\JAK58\Documents\GitHub\CPlusPlus_UnrealEngine\Game1\Intermediate\Build\Win64\UE4Editor\Development\Game1\UE4Editor-Game1.suppressed.exp
+    [4/4] Game1Editor.target
+  Total time in Parallel executor: 3.22 seconds
+  Total execution time: 3.84 seconds
